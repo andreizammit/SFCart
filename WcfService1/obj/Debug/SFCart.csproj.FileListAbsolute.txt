@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\WcfService1\bin\SFCartService.dll.config
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\WcfService1\bin\SFCartService.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\WcfService1\bin\SFCartService.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\WcfService1\obj\Debug\SFCartService.dll
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\WcfService1\obj\Debug\SFCartService.pdb

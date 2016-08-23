@@ -1,0 +1,5 @@
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Andrei\Documents\Visual Studio 2015\Projects\WcfService1\ConsoleClient\obj\Debug\ConsoleClient.pdb
